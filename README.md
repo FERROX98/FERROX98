@@ -6,12 +6,11 @@ Software Developer Engineer
 
 I started programming in high school, I continued my studies at the Sapienza University of Rome, obtaining a bachelor degree in computer science with 110 cum laude.
 
-* 🌍  I'm based in Rome
-* ✉️  You can contact me at [danielferro19@gmail.com](mailto:danielferro19@gmail.com)
+* 🌍  I'm based in Rome
+* ✉️  You can contact me at [danielferro19@gmail.com](mailto:danielferro19@gmail.com)
 
 <a href="https://www.github.com/FERROX98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FERROX98?logo=github&style=for-the-badge&color=14b8a6&labelColor=312e81" /></a>
-
 ### Skills
 
 <p align="left">
@@ -34,11 +33,9 @@ src="https://img.shields.io/github/followers/FERROX98?logo=github&style=for-the-
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/FERROX98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-ferro-851294180" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
