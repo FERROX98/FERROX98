@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel Ferro
 Software Developer Engineer
 ---------------------------
 
-I started programming in high school, I continued my studies at the Sapienza University of Rome, obtaining a bachelor degree in computer science with 110 cum laude.
+I started programming in high school, I continued my studies at the Sapienza University of Rome, obtaining a bachelor degree in computer science with 110/110 Cum Laude.
 
 * 🌍  I'm based in Rome
 * ✉️  You can contact me at [danielferro19@gmail.com](mailto:danielferro19@gmail.com)
