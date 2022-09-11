@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Ferro
 =============================
 
-Software Developer Engineer
+Software Engineer
 ---------------------------
 
 I started programming in high school, I continued my studies at the Sapienza University of Rome, obtaining a bachelor degree in computer science with 110/110 Cum Laude.
